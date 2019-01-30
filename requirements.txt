@@ -1,0 +1,5 @@
+sqlalchemy
+pymssql
+psycopg2
+appjar
+pandas
