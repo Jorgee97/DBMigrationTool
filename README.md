@@ -4,7 +4,7 @@ This is a python project which I developed for learning purposes, It still need 
 The main concept of the project is being able to migrate databases like SQLServer to PostgreSQL, or from MySQL to PostgreSQL, or any other.
 
 # Screenshot
-![alt text](https://github.com/Jorgee97/DBMigrationTool/tree/master/pictures/gui.PNG)
+![alt text](pictures/gui.PNG)
 
 # Current Features
 At the moment the project only provides a solution to migrate from SQLServer to PostgreSQL. What does this cover?
